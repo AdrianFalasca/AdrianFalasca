@@ -43,7 +43,7 @@ Desarrollador con formación en desarrollo de aplicaciones web y móviles utiliz
 Aplicación web para gestión de turnos médicos desarrollada con Angular y TypeScript utilizando Supabase como backend.
 
 🔹 **Sala de Juegos**  
-Sitio web desarrollado con Angular con autenticación y almacenamiento de datos utilizando Supabase.
+Aplicación web desarrollado con Angular con autenticación y almacenamiento de datos utilizando Supabase.
 
 🔹 **App móvil – Gestión de Restaurante**  
 Aplicación mobile desarrollada con Angular + Ionic y TypeScript para gestión de pedidos y operaciones en restaurante.
